@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @etgibbs
-- 👀 I’m interested in ML, AI, SWE
-- 🌱 I’m currently learning C++, Python, ML
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m interested in SWE / Web Applications
+- 🌱 I’m currently learning C++, Python
+- 💞️ I’m looking to collaborate on projects
 
 <!---
 etgibbs/etgibbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
