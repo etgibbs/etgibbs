@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @etgibbs
-- 👀 I’m interested in SWE / Web Applications
+- 👀 I’m interested in ML & SWE
 - 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to collaborate on projects
 
